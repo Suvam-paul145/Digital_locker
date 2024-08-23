@@ -1,7 +1,7 @@
 # Digital_locker
 
  <table border="1" color="blue" background-color="skyblue">
- <caption><h1>All Member's Name</h1></caption>
+ <caption>All Member's Name</caption>
   <tr>
     <th>Name</th>
     <th>Task</th>
