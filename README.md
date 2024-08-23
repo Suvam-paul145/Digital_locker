@@ -8,16 +8,22 @@
   </tr>
   <tr>
     <td>Subham Paul</td>
-    <td>Samprit Nandi</td>
-    <td>Rupam Biswas</td>
-    <td>Row 1, Cell 4</td>
-    <td>Row 1, Cell 5</td>
+    <td>Row 1, Cell 2</td>
   </tr>
   <tr>
-    <td>Row 2, Cell 1</td>
+    <td>Samprit Nandi</td>
     <td>Row 2, Cell 2</td>
-    <td>Row 2, Cell 3</td>
-    <td>Row 2, Cell 4</td>
-    <td>Row 2, Cell 5</td>
+  </tr>
+  <tr>
+    <td>Rupam Biswas</td>
+    <td>Row 3, Cell 2</td>
+  </tr>
+  <tr>
+    <td>.</td>
+    <td>Row 4, Cell 2</td>
+  </tr>
+  <tr>
+    <td>.</td>
+    <td>Row 5, Cell 2</td>
   </tr>
 </table>
